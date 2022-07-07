@@ -6,7 +6,7 @@ Classification of a gene family based on the dna sequence.
   <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/dna_sequence.jpg" width='400' height= '300' />
 <p>
 
-## Description
+  ## Description
 A genome is a complete collection of DNA in an organism. All living species possess a genome, but they differ considerably in size. A human genome has 
 about 6 billion characters or letters. If you think the genome(the complete DNA sequence) is like a book, it is a book about 6 billion letters of 
 “A”, “C”, “G” and “T”. In this project I have dna sequence (feature, X) of three spceies i.e. Human, Chimpanzee and Dog and each sequence belongs to certain gene family (target, y).
@@ -62,7 +62,7 @@ and so on.
   <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-Neural Network-Human.png" width="400" />
 </p>
 
-### Confusion Matrix when we tested on Chimpanzee dataset
+### Confusion Matrix when tested on Chimpanzee dataset
 <p align="center">
   <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-LOGREG-CHIMPANZEE.png" width="400" />
   <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-MNB-CHIMPANZEE.png" width="400" /> 
@@ -81,3 +81,6 @@ and so on.
 - `Multinomial Naive Bayes` algorithm seems to provide the better performance than logistic regression and neural network based on 5-fold cross validation of the dataset and also achieves a higher F1-score as well, which is better metric for model evalution.
 - The model seems to perform well on human data and also does well on chimpanzee as chimpanzee and human are similar genetically. 
 - The performance on dog data is not quite as good since the dogs are more divergent from human genetically than the chimpanzee.
+
+## References
+1. Rizk, Guillaume, Dominique Lavenier, and Rayan Chikhi. "DSK: k-mer counting with very low memory usage." Bioinformatics 29.5 (2013): 652-653.
