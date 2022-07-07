@@ -3,7 +3,7 @@
 Classification of a gene family based on the dna sequence.
 
 
-  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/dna_sequence.jpg" align="right" width='500' height= '500' />
+  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/dna_sequence.jpg" align="right" width='400' height= '400' />
 
 ## Description
 A genome is a complete collection of DNA in an organism. All living species possess a genome, but they differ considerably in size. A human genome has 
