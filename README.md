@@ -2,9 +2,6 @@
 ## Goal
 Classification of a gene family based on the dna sequence.
 
-
-  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/dna_sequence.jpg" align="right" width='400' height= '500' />
-
 ## Description
 A genome is a complete collection of DNA in an organism. All living species possess a genome, but they differ considerably in size. A human genome has 
 about 6 billion characters or letters. If you think the genome(the complete DNA sequence) is like a book, it is a book about 6 billion letters of 
@@ -62,10 +59,10 @@ and so on.
 </p>
 
 ### Confusion Matrix when we tested on Chimpanzee dataset
-<p float="left">
+<p float="center">
   <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-LOGREG-CHIMPANZEE.png" width="400" />
   <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-MNB-CHIMPANZEE.png" width="400" /> 
-  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-Neural Network-CHIMPANZEE.png" width="400" />
+  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-Neural Network-CHIMPANZEE.png" align='center' width="400" />
 </p>
 
 ### Confusion Matrix when tested on Dog dataset
