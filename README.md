@@ -56,23 +56,23 @@ and so on.
 
 ### Confusion Matrix 
 <p float="left">
-  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-LOGREG-Human.png" width="300" />
-  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-MNB-Human.png" width="300" /> 
-  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-Neural Network-Human.png" width="300" />
+  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-LOGREG-Human.png" width="400" />
+  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-MNB-Human.png" width="400" /> 
+  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-Neural Network-Human.png" width="400" />
 </p>
 
 ### Confusion Matrix when we tested on Chimpanzee dataset
 <p float="left">
-  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-LOGREG-CHIMPANZEE.png" width="300" />
-  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-MNB-CHIMPANZEE.png" width="300" /> 
-  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-Neural Network-CHIMPANZEE.png" width="300" />
+  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-LOGREG-CHIMPANZEE.png" width="400" />
+  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-MNB-CHIMPANZEE.png" width="400" /> 
+  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-Neural Network-CHIMPANZEE.png" width="400" />
 </p>
 
 ### Confusion Matrix when tested on Dog dataset
 <p float="left">
-  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-LOGREG-DOG.png" width="300" />
-  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-MNB-DOG.png" width="300" /> 
-  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-Neural Network-DOG.png" width="300" />
+  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-LOGREG-DOG.png" width="400" />
+  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-MNB-DOG.png" width="400" /> 
+  <img src="https://github.com/Mayank-5245/ML_Classifying-DNA-Sequence/blob/master/images/confusion-matrix-Neural Network-DOG.png" width="400" />
 </p>
 
 
